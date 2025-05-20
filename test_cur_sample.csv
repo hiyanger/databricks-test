@@ -1,0 +1,6 @@
+lineItem/LineItemType,product/ProductName,lineItem/ResourceId,lineItem/UsageType,lineItem/UsageStartDate,lineItem/UsageEndDate
+DiscountedUsage,Amazon Redshift,redshift:node1,Compute,2024-01-01,2024-01-01
+Usage,Amazon EC2,ec2:i-123456,BoxUsage,2024-01-01,2024-01-01
+DiscountedUsage,Amazon Redshift,redshift:node2,Compute,2024-01-02,2024-01-02
+Usage,Amazon Redshift,redshift:node1,Compute,2024-01-02,2024-01-02
+DiscountedUsage,Amazon Redshift,redshift:node3,Compute,2024-01-03,2024-01-03

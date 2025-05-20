@@ -1,0 +1,5 @@
+lineItem/ResourceId,InstanceType,Environment
+redshift:node1,dc2.large,prod
+redshift:node2,dc2.large,dev
+redshift:node3,ra3.xlplus,prod
+redshift:node4,ra3.4xlarge,test
